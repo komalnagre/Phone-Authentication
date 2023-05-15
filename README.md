@@ -5,6 +5,10 @@ Output :
 
 ![React App and 15 more pages - Person 1 - Microsoft​ Edge 15-05-2023 08_52_29](https://github.com/komalnagre/Phone-Authentication/assets/128583348/ed4cdcce-ae7e-4648-9b70-879db6cc2ee2)
 
+![Login - Authentication - Firebase console and 2 more pages - Person 1 - Microsoft​ Edge 15-05-2023 12_02_56](https://github.com/komalnagre/Phone-Authentication/assets/128583348/279f396d-a140-4e1f-a1bf-ed3b439e8e3c)
+
+
+
 Login Application using React , MySQL and .net core web API
 
 Installation needed to run this application:
