@@ -10,12 +10,12 @@ Login Application using React , MySQL and .net core web API
 Installation needed to run this application:
 1. Visual Studio Code for Frontend (React)
 2. Visual Studio for Backend (.Net Core Web API)
-3. Microsoft SQL Server (Database Part)
+3. MySQL Workbench (Database Part)
 
 Technologies :
 1.React
 2..Net Core Web API
-3.MSSQL Server
+3.MySQL
 
 steps to run this application:
 
